@@ -1,0 +1,28 @@
+CAM output for current project FLEXTYPE_U5.T3001
+Output on 05. Dec 2013, 15:21h
+Current project created using TARGET 15.6.0.11 light
+Output created using TARGET 3001! V15.6.0.11
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 204.5 mm x 25.741753 mm
+
+Description of created files as follows:
+
+FLEXTYPE_U5.Top = 16 = Copper top L2   ( *.Top )
+FLEXTYPE_U5.Bot = 2 = Copper bottom L1   ( *.Bot )
+FLEXTYPE_U5.Tool = drill tool list
+FLEXTYPE_U5.Drill = Galvanised drills
+FLEXTYPE_U5.Outline = 23 = PCB outline   ( *.Outline )
+FLEXTYPE_U5.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+FLEXTYPE_U5.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+FLEXTYPE_U5.Apr = TARGET 3001! aperture list
+FLEXTYPE_U5.Whl = Eagle compatible aperture list
+
+
+Caution: Smallest track is thiner than 0.150mm: (0.014 at -153.5412 | -0.7223) on layer 18
